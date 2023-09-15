@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(107, 122, 146);
+}
+body{
+    margin: auto;
+}
+.KotakCard{
+    height: 300px;
+    width: 500px;
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.Atas{
+    height: 90%;
+}
+.Bawah{
+    height: 10%;
+    background-color: darkblue;
+}
